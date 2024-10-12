@@ -1,0 +1,11 @@
+GET logstash-2024.09.16/_search
+{
+  "query": {
+    "range": {
+      "TimeStamp": {
+        "gte": "gte2",
+        "lt": "lt2"
+      }
+    }
+  }
+}
