@@ -1,7 +1,7 @@
 from datetime import datetime #日付の変換
 from elasticsearch import Elasticsearch
 import subprocess
-file_path = 'mail/test.txt'  # 読み込むファイルのパス
+file_path = 'test.txt'  # 読み込むファイルのパス
 
 with open(file_path, 'r', encoding='utf-8') as file:
     content = file.read()  # ファイルの各行をリストとして読み込む
@@ -12,7 +12,7 @@ print(content[4],content[5])
 
 day = content[4] +" "+content[5]
 
-day = "2019年12月6日 9:20" #テスト用
+#day = "2019年12月6日 9:20" #テスト用
 
 # 日本語形式の日付をパースして datetime オブジェクトに変換
 day_date = datetime.strptime(day, '%Y年%m月%d日 %H:%M')
