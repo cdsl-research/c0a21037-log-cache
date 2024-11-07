@@ -138,4 +138,4 @@ with open("new.txt", 'w', encoding='utf-8') as file:
             file.write(recontent)
 
 subprocess.run(["python3", "search-v4-collect-cache-size.py"])
-subprocess.run(["python3", "c.py"])
+subprocess.run(["python3", "kensaku.py"])
