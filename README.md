@@ -18,13 +18,11 @@ python3 teian.py
 - collect_es_cache_size.py：search-v4-collect-cache-size.pyを実行するときに使用します
 
 ## 実行結果
-1/3枚目
+※長いので3枚に分けています
 
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/fd6a33da-a959-4d40-bd72-a3063e73e0ae">
-2/3枚目
 
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/dadc83b9-1adc-44e8-9b7d-082bc108b0a2">
-3/3枚目
 
 <img width="946" alt="image" src="https://github.com/user-attachments/assets/ad7aca80-56d0-4d7e-9bb1-765a4291a346">
 
