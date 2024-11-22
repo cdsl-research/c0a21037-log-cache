@@ -20,9 +20,8 @@ python3 teian.py
 ## 実行結果
 ※長いので3枚に分けています
 
-<img width="949" alt="image" src="https://github.com/user-attachments/assets/fd6a33da-a959-4d40-bd72-a3063e73e0ae">
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/3f089a2a-5b5b-44a6-963e-6b581a704cb1">
 
 <img width="950" alt="image" src="https://github.com/user-attachments/assets/dadc83b9-1adc-44e8-9b7d-082bc108b0a2">
 
-<img width="946" alt="image" src="https://github.com/user-attachments/assets/ad7aca80-56d0-4d7e-9bb1-765a4291a346">
-
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/7a7512e2-96a5-4104-8c64-81b6a8822678">
